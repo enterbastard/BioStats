@@ -11,7 +11,7 @@ Please download the following the following packages into your RStudio:
 
 When you made an update, **PLEASE COMMENT IT!** so everybody knows the changes
 
-## Project Workflow
+## Project workflow
 
 
 ## Update
