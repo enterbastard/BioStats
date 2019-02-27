@@ -7,8 +7,12 @@ Please download the following the following packages into your RStudio:
 - VIM -- Imputation analysis
 - ggplot2 -- Data visualization
 - Plotly -- Data visualization
+- skimr -- Descriptive statistics
 
 When you made an update, **PLEASE COMMENT IT!** so everybody knows the changes
+
+## Project Workflow
+
 
 ## Update
 Here is the initial code with descriptive statistics of the dataset. Please check the results and feel free to change
