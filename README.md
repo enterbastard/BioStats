@@ -9,7 +9,7 @@ Please download the following the following packages into your RStudio:
 - Plotly -- Data visualization
 - skimr -- Descriptive statistics
 
-When you made an update, **PLEASE COMMENT IT!** so everybody knows the changes
+When you make an update, **PLEASE COMMENT IT!** so everybody knows the changes
 
 ## Project workflow
 
